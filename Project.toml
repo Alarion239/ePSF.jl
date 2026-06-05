@@ -1,0 +1,15 @@
+name = "ePSF"
+uuid = "986d0a50-3a4c-435b-8d21-81ea5e7d37f6"
+authors = ["Aleksandr Belotserkovtsev <amb30239@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

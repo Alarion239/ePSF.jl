@@ -1,0 +1,23 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/Manifest.toml
+/docs/build/
+/docs/Manifest.toml
+deps/deps.jl
+deps/build.log
+
+# Environments
+.CondaPkg/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Data / scratch
+/scratch/
+*.fits
+*.fit
